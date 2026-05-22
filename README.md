@@ -2,8 +2,7 @@
 
 ![Deep Chat](https://github.com/user-attachments/assets/1e60ad6f-7825-40d7-8b1a-f7bb52e6fbff)
 
-<b>Deep Chat</b> is a fully customizable AI chat component that can be injected into your website with just _one line of code_. Whether you want to create a chatbot that leverages popular APIs such as ChatGPT or connect to your own custom service, this component can do it all! Explore [deepchat.dev](https://deepchat.dev/) to view all of the available features, how to use them, examples and more!
-
+<b>Deep Chat</b> is a fully customizable AI chat component that can be injected into your website with just _one line of code_. Whether you want to create a chatbot that leverages popular APIs such as ChatGPT or connect to your own custom service, this component can do it all! 
 ### :rocket: Main Features
 
 - Connect to any API
